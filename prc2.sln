@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prc2", "prc2\prc2.csproj", "{F6C9AFA7-C877-4BF2-89C7-88F4D72EDA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frac", "frac\frac.csproj", "{2DC759A3-915A-4BBE-AC8C-C4D7F83E28D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C9AFA7-C877-4BF2-89C7-88F4D72EDA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C9AFA7-C877-4BF2-89C7-88F4D72EDA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C9AFA7-C877-4BF2-89C7-88F4D72EDA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C9AFA7-C877-4BF2-89C7-88F4D72EDA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC759A3-915A-4BBE-AC8C-C4D7F83E28D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC759A3-915A-4BBE-AC8C-C4D7F83E28D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC759A3-915A-4BBE-AC8C-C4D7F83E28D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC759A3-915A-4BBE-AC8C-C4D7F83E28D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB16828F-466A-4DFD-8364-152C3E5B6B39}
+	EndGlobalSection
+EndGlobal
